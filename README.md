@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # 100DaysOfCode-DS-ML
 I am learning data analytics and machine learning. This is my daily log.
 
