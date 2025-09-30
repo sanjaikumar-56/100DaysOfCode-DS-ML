@@ -1,2 +1,14 @@
 # 100DaysOfCode-DS-ML
-My daily learning log for data analytics &amp; machine learning.
+I am learning data analytics and machine learning. This is my daily log.
+
+## My goals
+- Learn Python and SQL basics
+- Do small projects and notes every day
+- Build a portfolio I can show later
+
+## Day 1
+- Created this repository and wrote the README.
+- Goal for tomorrow: add a small Python script.
+
+## How to use this repo
+I will add notebooks, scripts, and notes here. Each day I will save my work and write what I learned.
