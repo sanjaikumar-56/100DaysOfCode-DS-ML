@@ -14,3 +14,7 @@ I am learning data analytics and machine learning. This is my daily log.
 
 ## How to use this repo
 I will add notebooks, scripts, and notes here. Each day I will save my work and write what I learned.
+
+## Day 2: Hello World in Python
+- Learned how to create my first code file.
+- Wrote a simple program to print "Hello, World!".
