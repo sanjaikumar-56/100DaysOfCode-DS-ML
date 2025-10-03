@@ -18,3 +18,8 @@ I will add notebooks, scripts, and notes here. Each day I will save my work and 
 ## Day 2: Hello World in Python
 - Learned how to create my first code file.
 - Wrote a simple program to print "Hello, World!".
+
+## Day 3: Simple Calculator in Python
+- Learned how to take input from users.
+- Built a calculator that can add, subtract, multiply, and divide.
+- Handled an error (cannot divide by zero).
