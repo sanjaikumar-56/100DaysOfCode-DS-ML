@@ -23,3 +23,8 @@ I will add notebooks, scripts, and notes here. Each day I will save my work and 
 - Learned how to take input from users.
 - Built a calculator that can add, subtract, multiply, and divide.
 - Handled an error (cannot divide by zero).
+
+## Day 4: Star Pattern using Loops
+- Learned about **for loops** in Python.
+- Created a pyramid star pattern.
+- Understood how nested loops work.
