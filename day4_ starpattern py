@@ -1,0 +1,11 @@
+# Day 4: Star Pattern using Loops
+
+# Ask user how many rows
+rows = int(input("Enter number of rows: "))
+
+# Outer loop for each row
+for i in range(1, rows + 1):
+    # Inner loop to print stars
+    for j in range(i):
+        print("*", end=" ")
+    print()  # New line after each row
