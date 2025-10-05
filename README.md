@@ -28,3 +28,8 @@ I will add notebooks, scripts, and notes here. Each day I will save my work and 
 - Learned about **for loops** in Python.
 - Created a pyramid star pattern.
 - Understood how nested loops work.
+
+## Day 5: Learning Python Lists
+- Learned how to create and use **lists**.
+- Practiced adding and removing items.
+- Used **for loops** to print all items.
