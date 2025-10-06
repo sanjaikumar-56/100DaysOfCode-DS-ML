@@ -33,3 +33,9 @@ I will add notebooks, scripts, and notes here. Each day I will save my work and 
 - Learned how to create and use **lists**.
 - Practiced adding and removing items.
 - Used **for loops** to print all items.
+
+## Day 6: Learning Functions in Python
+- Learned how to define and call **functions**.
+- Created three functions: `greet`, `add_numbers`, and `check_even_odd`.
+- Practiced using **return** and **parameters**.
+
