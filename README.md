@@ -39,3 +39,8 @@ I will add notebooks, scripts, and notes here. Each day I will save my work and 
 - Created three functions: `greet`, `add_numbers`, and `check_even_odd`.
 - Practiced using **return** and **parameters**.
 
+## Day 7: Calculator Using Functions
+- Rebuilt the calculator using **functions** for cleaner code.
+- Practiced using multiple return statements.
+- Improved understanding of function-based design.
+
