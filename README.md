@@ -44,3 +44,8 @@ I will add notebooks, scripts, and notes here. Each day I will save my work and 
 - Practiced using multiple return statements.
 - Improved understanding of function-based design.
 
+## Day 8: Learning Python Dictionaries
+- Learned how to store data in **key-value pairs**.
+- Practiced adding, updating, and removing items.
+- Used a **for loop** to print dictionary keys and values.
+
