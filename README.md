@@ -49,3 +49,14 @@ I will add notebooks, scripts, and notes here. Each day I will save my work and 
 - Practiced adding, updating, and removing items.
 - Used a **for loop** to print dictionary keys and values.
 
+## 🗓️ Day 9: Python Tuples
+- Learned what tuples are — similar to lists, but **immutable** (cannot change once created).
+- Practiced creating tuples, accessing items, unpacking values, and using tuple methods.
+- Understood difference between **lists (mutable)** and **tuples (immutable)**.
+
+### 🧾 Example Code
+```python
+fruits = ("apple", "banana", "cherry")
+print(fruits)
+(a, b, c) = fruits
+print(a, b, c)
