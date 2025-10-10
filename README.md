@@ -55,11 +55,11 @@ I will add notebooks, scripts, and notes here. Each day I will save my work and 
 - Understood difference between **lists (mutable)** and **tuples (immutable)**.
 
 ### 🧾 Example Code
-```python
+python
 fruits = ("apple", "banana", "cherry")
 print(fruits)
 (a, b, c) = fruits
-print(a, b, c) '''
+print(a, b, c) 
 
 ## Day 10: Learning Python Sets
 - Learned about **Sets**, which store **unique and unordered elements**.
