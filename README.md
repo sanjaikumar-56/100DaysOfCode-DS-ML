@@ -60,3 +60,15 @@ fruits = ("apple", "banana", "cherry")
 print(fruits)
 (a, b, c) = fruits
 print(a, b, c)
+
+## Day 10: Learning Python Sets
+- Learned about **Sets**, which store **unique and unordered elements**.
+- Practiced adding, removing, and checking items.
+- Learned key **set operations** like union, intersection, difference, and symmetric difference.
+
+### 🧾 Output:
+Original Set: {1, 2, 3, 4, 5}
+After adding 6: {1, 2, 3, 4, 5, 6}
+After removing 3: {1, 2, 4, 5, 6}
+Union: {1, 2, 3, 4, 5, 6}
+Intersection: {3, 4}
