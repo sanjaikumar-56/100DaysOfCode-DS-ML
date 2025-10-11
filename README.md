@@ -72,3 +72,25 @@ After adding 6: {1, 2, 3, 4, 5, 6}
 After removing 3: {1, 2, 4, 5, 6}
 Union: {1, 2, 3, 4, 5, 6}
 Intersection: {3, 4}
+
+# 🐍 Day 11 - Python Sets
+
+## 🔹 What I Learned
+- Sets are **unordered**, **unindexed**, and **unique** collections.
+- They automatically remove **duplicates**.
+- Sets are **mutable**, but elements must be **immutable** (like numbers, strings, tuples).
+- Python also has an **immutable version** called `frozenset`.
+
+## 🧩 Set Operations
+| Operation | Symbol | Description |
+|------------|---------|-------------|
+| Union | `A | B` | Combines all unique elements |
+| Intersection | `A & B` | Finds common elements |
+| Difference | `A - B` | Elements in A but not in B |
+| Symmetric Difference | `A ^ B` | Elements not common to both |
+
+## 🧠 Example
+```python
+A = {1, 2, 3, 4}
+B = {3, 4, 5, 6}
+print(A | B)  # {1, 2, 3, 4, 5, 6}
