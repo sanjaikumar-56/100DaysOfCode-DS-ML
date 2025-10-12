@@ -90,7 +90,7 @@ Intersection: {3, 4}
 | Symmetric Difference | `A ^ B` | Elements not common to both |
 
 ## 🧠 Example
-```python
+python
 A = {1, 2, 3, 4}
 B = {3, 4, 5, 6}
 print(A | B) '''  # {1, 2, 3, 4, 5, 6}
@@ -103,7 +103,7 @@ print(A | B) '''  # {1, 2, 3, 4, 5, 6}
 - Understood that strings are immutable in Python.  
 
 ### 🧠 Example
-```python
+python
 name = "Sanjai Kumar"
 greeting = 'Welcome to Python!'
 
