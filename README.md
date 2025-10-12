@@ -93,4 +93,22 @@ Intersection: {3, 4}
 ```python
 A = {1, 2, 3, 4}
 B = {3, 4, 5, 6}
-print(A | B)  # {1, 2, 3, 4, 5, 6}
+print(A | B) '''  # {1, 2, 3, 4, 5, 6}
+
+## 🧾 Day 12: Python Strings (Basics & Methods)
+
+- Learned how to create and manipulate strings.  
+- Practiced indexing, slicing, and string concatenation.  
+- Used built-in string methods like `.upper()`, `.lower()`, `.replace()`, `.split()`, `.join()`, `.find()`, and `.count()`.  
+- Understood that strings are immutable in Python.  
+
+### 🧠 Example
+```python
+name = "Sanjai Kumar"
+greeting = 'Welcome to Python!'
+
+print("First letter:", name[0])
+print("Reversed name:", name[::-1])
+print("Uppercase:", name.upper())
+print("Split by space:", name.split(" "))
+print("Joined String:", " ".join(["Python", "is", "awesome"]))
