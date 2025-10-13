@@ -112,3 +112,20 @@ print("Reversed name:", name[::-1])
 print("Uppercase:", name.upper())
 print("Split by space:", name.split(" "))
 print("Joined String:", " ".join(["Python", "is", "awesome"]))
+
+## 📅 Day 13: Python String Formatting (f-strings, format, %)
+
+- Learned how to display data neatly using **f-strings**, **.format()**, and **% formatting**.  
+- Practiced adding variables and numbers inside text.  
+- Used alignment and precision control for professional-looking output.  
+
+### 🧠 Example
+```python
+name = "Sanjai"
+age = 21
+course = "Data Science"
+marks = 88.5678
+
+print(f"My name is {name}, I am {age} years old and I study {course}.")
+print("I scored {:.2f}% in {}".format(marks, course))
+print("My name is %s and I am %d years old." % (name, age))
