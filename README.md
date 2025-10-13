@@ -102,13 +102,4 @@ Intersection: {3, 4}
 - Practiced adding variables and numbers inside text.  
 - Used alignment and precision control for professional-looking output.  
 
-### 🧠 Example
-```python
-name = "Sanjai"
-age = 21
-course = "Data Science"
-marks = 88.5678
-
-print(f"My name is {name}, I am {age} years old and I study {course}.")
-print("I scored {:.2f}% in {}".format(marks, course))
-print("My name is %s and I am %d years old." % (name, age))
+ 
