@@ -95,4 +95,14 @@ Intersection: {3, 4}
 - Practiced adding variables and numbers inside text.  
 - Used alignment and precision control for professional-looking output.  
 
- 
+ ## 🚀 Day 14 - Python Dictionaries
+
+### 🔹 Topics Covered
+- Creating and accessing dictionaries
+- Adding, updating, and deleting items
+- Looping through key-value pairs
+- Checking for key existence
+- Dictionary length and iteration
+
+### 🧩 Summary
+Dictionaries store data in key-value pairs and are mutable. They are useful for mapping relationships between data, such as storing student details, configurations, or object-like data in Python.
