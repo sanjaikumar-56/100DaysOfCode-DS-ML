@@ -106,3 +106,14 @@ Intersection: {3, 4}
 
 ### 🧩 Summary
 Dictionaries store data in key-value pairs and are mutable. They are useful for mapping relationships between data, such as storing student details, configurations, or object-like data in Python.
+
+## 🚀 Day 15 - Python Conditional Statements
+
+### 🔹 Topics Covered
+- if, elif, and else statements
+- Nested if statements
+- Comparison and logical conditions
+- Decision-making based on conditions
+
+### 🧩 Summary
+Conditional statements allow Python programs to make decisions and run code only when certain conditions are true. They are essential for logic control and flow in any program.
