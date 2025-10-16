@@ -117,3 +117,18 @@ Dictionaries store data in key-value pairs and are mutable. They are useful for 
 
 ### 🧩 Summary
 Conditional statements allow Python programs to make decisions and run code only when certain conditions are true. They are essential for logic control and flow in any program.
+
+## 🚀 Day 16 - Python Loops
+
+### 🔹 Topics Covered
+- for loop
+- while loop
+- range() function
+- break and continue statements
+
+### 🧩 Summary
+Loops help in executing a set of statements multiple times.  
+- **for loop:** Iterates over a sequence (like list or range).  
+- **while loop:** Repeats as long as a condition is true.  
+- **break:** Stops the loop.  
+- **continue:** Skips the current iteration.
