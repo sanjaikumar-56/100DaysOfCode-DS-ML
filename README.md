@@ -132,3 +132,15 @@ Loops help in executing a set of statements multiple times.
 - **while loop:** Repeats as long as a condition is true.  
 - **break:** Stops the loop.  
 - **continue:** Skips the current iteration.
+
+## 🌟 Day 17 - Nested Loops and Pattern Printing
+
+### 🔹 Topics Covered
+- Nested loops
+- Using `for` loops inside another loop
+- Star pattern printing
+
+### 🧩 Summary
+Nested loops help us work with multiple levels of repetition.  
+They are commonly used to create patterns, handle 2D data, and nested structures.  
+Today’s practice included printing square and triangle star patterns.
