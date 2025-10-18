@@ -144,3 +144,18 @@ Loops help in executing a set of statements multiple times.
 Nested loops help us work with multiple levels of repetition.  
 They are commonly used to create patterns, handle 2D data, and nested structures.  
 Today’s practice included printing square and triangle star patterns.
+
+## 🔁 Day 18 - Loop Control Statements
+
+### 🔹 Topics Covered
+- break
+- continue
+- pass
+
+### 🧩 Summary
+Loop control statements help you manage the flow of loops:
+- **break:** stops the loop when a condition is met  
+- **continue:** skips the current iteration and moves to the next one  
+- **pass:** does nothing — used as a placeholder to avoid syntax errors  
+
+These are helpful for adding conditions and controlling loop behavior in real programs.
