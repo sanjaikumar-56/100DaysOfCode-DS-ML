@@ -159,3 +159,16 @@ Loop control statements help you manage the flow of loops:
 - **pass:** does nothing — used as a placeholder to avoid syntax errors  
 
 These are helpful for adding conditions and controlling loop behavior in real programs.
+
+## 🧠 Day 19 - Python Functions (Part 1: Basics & Parameters)
+
+### 🔹 Topics Covered
+- Function definition (`def`)
+- Parameters and arguments
+- Return statement
+- Default parameter values
+
+### 🧩 Summary
+Functions allow you to group reusable pieces of code.  
+They make your programs modular and easy to understand.  
+Today’s practice focused on creating simple functions, passing arguments, and returning values.
