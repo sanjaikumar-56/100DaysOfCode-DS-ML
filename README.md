@@ -172,3 +172,19 @@ These are helpful for adding conditions and controlling loop behavior in real pr
 Functions allow you to group reusable pieces of code.  
 They make your programs modular and easy to understand.  
 Today’s practice focused on creating simple functions, passing arguments, and returning values.
+
+## ⚙️ Day 20 - Python Function Arguments (Part 2)
+
+### 🔹 Topics Covered
+- Positional arguments  
+- Keyword arguments  
+- Default arguments  
+- *args (variable-length arguments)  
+- **kwargs (keyword variable-length arguments)
+
+### 🧩 Summary
+Today’s session focused on writing flexible functions using different argument types.  
+You learned how to:
+- Use **positional** and **keyword** arguments for clear parameter passing.  
+- Handle any number of arguments using **\*args** and **\*\*kwargs**.  
+These are extremely useful in real-world coding and API development.
