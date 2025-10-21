@@ -188,3 +188,18 @@ You learned how to:
 - Use **positional** and **keyword** arguments for clear parameter passing.  
 - Handle any number of arguments using **\*args** and **\*\*kwargs**.  
 These are extremely useful in real-world coding and API development.
+
+## ⚡ Day 21 - Lambda Functions and Map, Filter, Reduce
+
+### 🔹 Topics Covered
+- Lambda (anonymous) functions  
+- map(), filter(), and reduce() functions  
+- Functional programming concepts in Python
+
+### 🧩 Summary
+- **lambda:** One-line functions without a name.  
+- **map():** Applies a function to every item in a list.  
+- **filter():** Keeps only items that meet a condition.  
+- **reduce():** Combines items into a single result (e.g., sum, product).  
+
+These tools make your code shorter, faster, and more expressive — perfect for data processing tasks.
