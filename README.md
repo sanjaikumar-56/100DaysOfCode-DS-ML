@@ -203,3 +203,17 @@ These are extremely useful in real-world coding and API development.
 - **reduce():** Combines items into a single result (e.g., sum, product).  
 
 These tools make your code shorter, faster, and more expressive — perfect for data processing tasks.
+
+## 🧩 Day 22 - List and Dictionary Comprehensions
+
+### 🔹 Topics Covered
+- List comprehension basics  
+- Conditional list comprehension  
+- Nested list comprehension  
+- Dictionary comprehension  
+- Conditional dictionary comprehension
+
+### 🧠 Summary
+Comprehensions make code **cleaner, shorter, and faster**.  
+They let you create new lists or dictionaries from existing data using one-line expressions.  
+This is widely used in **data cleaning, transformation, and analysis**.
