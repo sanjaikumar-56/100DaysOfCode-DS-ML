@@ -217,3 +217,29 @@ These tools make your code shorter, faster, and more expressive — perfect for 
 Comprehensions make code **cleaner, shorter, and faster**.  
 They let you create new lists or dictionaries from existing data using one-line expressions.  
 This is widely used in **data cleaning, transformation, and analysis**.
+
+## 📘 Day 23 – Bias-Variance Tradeoff & Model Generalization
+
+### 🧠 Concept Overview
+The **Bias-Variance Tradeoff** explains how model complexity affects performance:
+- **High Bias → Underfitting**
+- **High Variance → Overfitting**
+- The goal is to balance both for optimal generalization.
+
+### ⚙️ Key Techniques
+- Regularization (L1, L2)
+- Cross-validation
+- Ensemble methods (Bagging, Boosting)
+- Pruning (Decision Trees)
+- Early Stopping
+
+### 💻 Code File
+`day23_bias_variance_tradeoff.py`
+
+### 📊 What You’ll Learn
+- How model complexity affects error  
+- Identify underfitting vs overfitting  
+- Visualize bias-variance tradeoff curve  
+
+### 🧾 Commit Message
+Day 23: Implemented Bias-Variance Tradeoff visualization using Polynomial Regression
