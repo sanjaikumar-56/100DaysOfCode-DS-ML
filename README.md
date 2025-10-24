@@ -243,3 +243,27 @@ The **Bias-Variance Tradeoff** explains how model complexity affects performance
 
 ### 🧾 Commit Message
 Day 23: Implemented Bias-Variance Tradeoff visualization using Polynomial Regression
+
+## 📘 Day 24 – Regularization: Ridge & Lasso Regression
+
+### 🧠 Concept Overview
+Regularization helps prevent **overfitting** by adding a penalty to large coefficients:
+- **Ridge Regression (L2)**: Penalizes the sum of squared coefficients.
+- **Lasso Regression (L1)**: Can shrink some coefficients to zero (feature selection).
+
+### ⚙️ Key Techniques
+- Ridge → L2 Regularization
+- Lasso → L1 Regularization
+- Alpha → Controls the strength of penalty
+- Compare model performance (MSE)
+
+### 💻 Code File
+`day24_regularization_ridge_lasso.py`
+
+### 📊 What You’ll Learn
+- How Ridge & Lasso reduce overfitting  
+- Effect of regularization on model complexity  
+- Visualization of regression lines for comparison  
+
+### 🧾 Commit Message
+Day 24: Implemented Ridge and Lasso Regression to understand Regularization techniques
