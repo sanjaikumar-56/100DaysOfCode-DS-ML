@@ -265,5 +265,21 @@ Regularization helps prevent **overfitting** by adding a penalty to large coeffi
 - Effect of regularization on model complexity  
 - Visualization of regression lines for comparison  
 
-### 🧾 Commit Message
-Day 24: Implemented Ridge and Lasso Regression to understand Regularization techniques
+## 📘 Day 25 – ElasticNet Regression (Combination of L1 + L2)
+
+### 🧠 Concept Overview
+ElasticNet Regression combines the strengths of **Ridge (L2)** and **Lasso (L1)** regularization.  
+It helps when features are correlated and when we need both coefficient shrinkage and feature selection.
+
+### ⚙️ Key Points
+- **Alpha** → Controls regularization strength  
+- **l1_ratio** → Controls the mix between L1 (Lasso) and L2 (Ridge)  
+- Prevents overfitting while retaining useful features
+
+### 💻 Code File
+`day25_elasticnet_regression.py`
+
+### 📊 What You’ll Learn
+- How ElasticNet blends Ridge & Lasso  
+- Balancing L1 and L2 penalties  
+- Comparing MSE between Linear and ElasticNet models
