@@ -283,3 +283,28 @@ It helps when features are correlated and when we need both coefficient shrinkag
 - How ElasticNet blends Ridge & Lasso  
 - Balancing L1 and L2 penalties  
 - Comparing MSE between Linear and ElasticNet models
+
+## 📘 Day 26 – Train-Test Split & Cross Validation
+
+### 🧠 Concept Overview
+Model evaluation ensures how well your machine learning model performs on **unseen data**.  
+Two main techniques are:
+
+- **Train-Test Split** → Divides data into training and testing sets.  
+- **Cross Validation (CV)** → Divides data into multiple folds for more reliable model performance estimation.
+
+### ⚙️ Key Points
+- Avoids overfitting and underfitting  
+- K-Fold CV averages results from different splits  
+- Helps in **model selection and hyperparameter tuning**
+
+### 💻 Code File
+`day26_train_test_cross_validation.py`
+
+### 📊 What You’ll Learn
+- How to evaluate model performance on unseen data  
+- Why CV gives more stable and unbiased metrics  
+- Compare MSE between single split and multiple folds
+
+### 🧾 Commit Message
+Day 26: Implemented Train-Test Split and Cross Validation for model evaluation
