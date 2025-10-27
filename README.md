@@ -308,3 +308,17 @@ Two main techniques are:
 
 ### 🧾 Commit Message
 Day 26: Implemented Train-Test Split and Cross Validation for model evaluation
+
+## 🧩 Day 27 - Data Cleaning with Pandas
+
+### 🔹 Topics Covered
+- Handling missing values  
+- Removing duplicates  
+- Renaming columns  
+- Converting data types  
+- Filling null values with mean  
+
+### 🧠 Summary
+Data cleaning is an essential step in any data analysis workflow.  
+Using **Pandas**, we can easily remove duplicates, handle missing data, rename columns, and ensure correct data types — all in just a few lines of code.  
+Clean data leads to more accurate and reliable insights.
