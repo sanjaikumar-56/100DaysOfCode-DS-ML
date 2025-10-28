@@ -322,3 +322,17 @@ Day 26: Implemented Train-Test Split and Cross Validation for model evaluation
 Data cleaning is an essential step in any data analysis workflow.  
 Using **Pandas**, we can easily remove duplicates, handle missing data, rename columns, and ensure correct data types — all in just a few lines of code.  
 Clean data leads to more accurate and reliable insights.
+
+## 🧩 Day 28 - Data Aggregation and Grouping in Pandas
+
+### 🔹 Topics Covered
+- Grouping data using `groupby()`  
+- Aggregation functions like `sum()`, `mean()`, `count()`  
+- Applying multiple aggregations  
+- Using `agg()` and `transform()`  
+- Resetting index after grouping  
+
+### 🧠 Summary
+Grouping and aggregation help summarize large datasets efficiently.  
+With **Pandas groupby**, we can analyze patterns across categories — for example, finding average sales per region or total revenue per product.  
+These techniques are powerful for **data summarization and reporting**.
