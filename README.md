@@ -336,3 +336,17 @@ Clean data leads to more accurate and reliable insights.
 Grouping and aggregation help summarize large datasets efficiently.  
 With **Pandas groupby**, we can analyze patterns across categories — for example, finding average sales per region or total revenue per product.  
 These techniques are powerful for **data summarization and reporting**.
+
+## 🧩 Day 29 - Data Merging and Joining in Pandas
+
+### 🔹 Topics Covered
+- Combining DataFrames using `merge()`  
+- Types of joins: inner, left, right, outer  
+- Matching data on key columns  
+- Handling unmatched records with NaN  
+- Practical uses in data integration  
+
+### 🧠 Summary
+Data merging and joining help combine related datasets efficiently.  
+Using **Pandas merge**, we can bring together sales, customer, or product data based on common keys like IDs.  
+Mastering joins is crucial for **data integration and relational data analysis**.
