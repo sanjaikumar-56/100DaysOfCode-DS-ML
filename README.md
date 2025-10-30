@@ -350,3 +350,16 @@ These techniques are powerful for **data summarization and reporting**.
 Data merging and joining help combine related datasets efficiently.  
 Using **Pandas merge**, we can bring together sales, customer, or product data based on common keys like IDs.  
 Mastering joins is crucial for **data integration and relational data analysis**.
+
+## 🧩 Day 30 - Concatenation and Appending DataFrames in Pandas
+
+### 🔹 Topics Covered
+- Concatenating DataFrames row-wise (`axis=0`)  
+- Concatenating column-wise (`axis=1`)  
+- Appending a single new record  
+- Managing DataFrame indexes  
+
+### 🧠 Summary
+Concatenation and appending let us **combine datasets vertically or horizontally**.  
+It’s useful when working with multiple files or adding new rows dynamically.  
+These operations form the base of **data aggregation and preprocessing** workflows in Pandas.
