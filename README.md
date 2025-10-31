@@ -363,3 +363,16 @@ Mastering joins is crucial for **data integration and relational data analysis**
 Concatenation and appending let us **combine datasets vertically or horizontally**.  
 It’s useful when working with multiple files or adding new rows dynamically.  
 These operations form the base of **data aggregation and preprocessing** workflows in Pandas.
+
+## 🧩 Day 31 - GroupBy and Aggregation in Pandas
+
+### 🔹 Topics Covered
+- Using `groupby()` for data summarization  
+- Applying aggregation functions like `mean()`, `count()`, `max()`, `min()`  
+- Performing multiple aggregations with `agg()`  
+- Resetting index for a clean output  
+
+### 🧠 Summary
+Grouping and aggregation are vital for summarizing and analyzing data efficiently.  
+With `groupby()`, we can easily find **averages, counts, and totals** per category.  
+This is heavily used in **reporting, EDA, and business analytics** for summarizing insights.
