@@ -376,3 +376,17 @@ These operations form the base of **data aggregation and preprocessing** workflo
 Grouping and aggregation are vital for summarizing and analyzing data efficiently.  
 With `groupby()`, we can easily find **averages, counts, and totals** per category.  
 This is heavily used in **reporting, EDA, and business analytics** for summarizing insights.
+
+## 🧩 Day 32 - Merging and Joining DataFrames in Pandas
+
+### 🔹 Topics Covered
+- Inner Join (`how='inner'`)  
+- Left Join (`how='left'`)  
+- Right Join (`how='right'`)  
+- Outer Join (`how='outer'`)  
+- Combining datasets using a common key  
+
+### 🧠 Summary
+Merging and joining allow us to combine multiple datasets into one using shared columns.  
+They work just like **SQL joins**, helping connect related information from different sources.  
+These techniques are key for **data integration and relational analysis**.
