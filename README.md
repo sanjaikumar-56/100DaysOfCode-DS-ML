@@ -390,3 +390,17 @@ This is heavily used in **reporting, EDA, and business analytics** for summarizi
 Merging and joining allow us to combine multiple datasets into one using shared columns.  
 They work just like **SQL joins**, helping connect related information from different sources.  
 These techniques are key for **data integration and relational analysis**.
+
+## 🧩 Day 33 - Handling Missing Data in Pandas
+
+### 🔹 Topics Covered
+- Identifying missing data using `isnull()` and `sum()`  
+- Removing missing data with `dropna()`  
+- Filling missing data using `fillna()`  
+- Using mean, forward fill, and backward fill methods  
+- Replacing missing strings with default values  
+
+### 🧠 Summary
+Handling missing data ensures dataset completeness and accuracy.  
+Pandas provides flexible options to **detect, remove, or fill** missing entries.  
+Choosing the right strategy depends on the **data type, business logic, and analysis goal**.
