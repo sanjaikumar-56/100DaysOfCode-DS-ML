@@ -404,3 +404,17 @@ These techniques are key for **data integration and relational analysis**.
 Handling missing data ensures dataset completeness and accuracy.  
 Pandas provides flexible options to **detect, remove, or fill** missing entries.  
 Choosing the right strategy depends on the **data type, business logic, and analysis goal**.
+
+## 🧩 Day 34 - Data Transformation with Apply, Map, and Applymap
+
+### 🔹 Topics Covered
+- Using `map()` to transform Series values  
+- Applying custom logic with `apply()`  
+- Using `applymap()` for element-wise transformations  
+- Creating new columns using lambda functions  
+- Data formatting and conversions  
+
+### 🧠 Summary
+Data transformation helps reshape and modify datasets efficiently.  
+Functions like **map(), apply(), and applymap()** make it easy to perform operations on columns, rows, or entire DataFrames.  
+These are essential for **feature engineering and preprocessing** in data science workflows.
