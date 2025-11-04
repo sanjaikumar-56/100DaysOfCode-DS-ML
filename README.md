@@ -418,3 +418,16 @@ Choosing the right strategy depends on the **data type, business logic, and anal
 Data transformation helps reshape and modify datasets efficiently.  
 Functions like **map(), apply(), and applymap()** make it easy to perform operations on columns, rows, or entire DataFrames.  
 These are essential for **feature engineering and preprocessing** in data science workflows.
+
+## 🧩 Day 35 - Sorting and Ranking in Pandas
+
+### 🔹 Topics Covered
+- Sorting columns in ascending or descending order  
+- Sorting using multiple columns  
+- Ranking values using different ranking methods  
+- Understanding `dense` and `average` ranking  
+- Adding ranking columns for Salary and Experience  
+
+### 🧠 Summary
+Sorting helps organize data clearly, while ranking is essential for identifying top performers or highest values.  
+These operations are widely used in **EDA, reporting, and feature engineering**.
