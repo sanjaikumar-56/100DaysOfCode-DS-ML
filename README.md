@@ -431,3 +431,16 @@ These are essential for **feature engineering and preprocessing** in data scienc
 ### 🧠 Summary
 Sorting helps organize data clearly, while ranking is essential for identifying top performers or highest values.  
 These operations are widely used in **EDA, reporting, and feature engineering**.
+
+## 🧩 Day 36 - Handling Outliers in Pandas
+
+### 🔹 Topics Covered
+- What are outliers and why they matter  
+- Detecting outliers using IQR (Interquartile Range)  
+- Removing outliers using IQR rule  
+- Capping outliers (Winsorization) using `np.where()`  
+
+### 🧠 Summary
+Outliers can distort insights and affect machine-learning models.  
+Using IQR, we can identify and treat extreme values.  
+Techniques like **removal and capping** help keep the data distribution realistic and model-friendly.
