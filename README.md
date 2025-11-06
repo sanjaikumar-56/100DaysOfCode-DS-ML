@@ -444,3 +444,17 @@ These operations are widely used in **EDA, reporting, and feature engineering**.
 Outliers can distort insights and affect machine-learning models.  
 Using IQR, we can identify and treat extreme values.  
 Techniques like **removal and capping** help keep the data distribution realistic and model-friendly.
+
+## 🧩 Day 37 - Feature Scaling (Standardization and Normalization)
+
+### 🔹 Topics Covered
+- Understanding the need for scaling  
+- Standardization using `StandardScaler()`  
+- Normalization using `MinMaxScaler()`  
+- Combining scaled data with original dataset  
+- Comparing results of both techniques  
+
+### 🧠 Summary
+Feature scaling ensures that numerical features are on the same scale, improving model accuracy and convergence.  
+**Standardization** centers data around the mean with unit variance, while **Normalization** rescales values between 0 and 1.  
+These steps are essential in **machine learning preprocessing**.
