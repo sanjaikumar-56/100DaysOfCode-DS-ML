@@ -458,3 +458,17 @@ Techniques like **removal and capping** help keep the data distribution realisti
 Feature scaling ensures that numerical features are on the same scale, improving model accuracy and convergence.  
 **Standardization** centers data around the mean with unit variance, while **Normalization** rescales values between 0 and 1.  
 These steps are essential in **machine learning preprocessing**.
+
+## 🧩 Day 38 - Encoding Categorical Variables
+
+### 🔹 Topics Covered
+- Label Encoding using `LabelEncoder()`  
+- One-Hot Encoding using `OneHotEncoder()`  
+- Handling text data for ML models  
+- Creating new encoded columns  
+- Understanding the difference between Label and One-Hot Encoding  
+
+### 🧠 Summary
+Machine learning models work only with numerical data — categorical text values must be encoded.  
+**Label Encoding** converts categories to numeric labels, while **One-Hot Encoding** creates binary columns for each category.  
+These techniques are fundamental for preparing datasets for supervised learning models.
